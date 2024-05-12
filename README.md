@@ -3,7 +3,11 @@
 
 ## Installation Guide for UDPGuard with HYSTERIA + SlowDNS
 
-This guide provides step-by-step instructions to install UDPGuard with DNS-TT integration on your system. Follow these steps to ensure a successful installation.
+This guide provides step-by-step instructions for installing UDPGuard with SLOWDNS + Hysteria integration on your system. Follow these steps to ensure a successful installation.
+
+Follow this repository we will be updating.
+
+Administration panel coming soon
 
 ### Prerequisites
 
