@@ -60,5 +60,9 @@ For any issues during installation, refer to the troubleshooting section or cont
 
 https://t.me/webtunnelvpn2023
 
+5. **Tutorial Install **
+
+https://www.youtube.com/watch?v=rIs0RA9jJUo
+
 
 ---
